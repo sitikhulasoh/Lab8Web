@@ -38,8 +38,15 @@
 ## Buatlah file baru dengan nama tambah.php kemudian tulislah syntaxnya.
 ![8 (2)](https://user-images.githubusercontent.com/56240533/120348463-688acd80-c327-11eb-9d85-137f3532fd53.png)
 
+- hasilnyaa
+![hasil tambah (2)](https://user-images.githubusercontent.com/56240533/120352276-d258a680-c32a-11eb-9e33-f7087ea2a56f.png)
+
+
 ## Buatlah file baru yaitu ubah.php kemudian tulis syntanya.
 ![9 (2)](https://user-images.githubusercontent.com/56240533/120348691-98d26c00-c327-11eb-9037-1bd69a4f991c.png)
+
+## Buatlah file baru dengan nama hapus.php
+![10 (2)](https://user-images.githubusercontent.com/56240533/120352650-2f545c80-c32b-11eb-9942-a359953e3f41.png)
 
 
 
